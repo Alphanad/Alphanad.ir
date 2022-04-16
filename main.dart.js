@@ -30787,7 +30787,7 @@ aB(){return new A.HJ(A.a([B.pI,B.bu,B.Fr,B.pH],t.b),A.a([B.jh,B.ti,B.jg,B.tj],t.
 A.HJ.prototype={
 b6(){this.bR()
 A.Qe(B.zU,new A.a0E(this),t.P)},
-Y(a,b){var s=this,r=null,q=b.ab(t.w).f.a,p=s.y,o=s.z,n=A.a([s.r,s.x],t.b),m=q.a,l=q.b,k=A.p_(B.Ap,l,m),j=A.ag(191,255,255,255),i=A.a9s(25),h=t.d,g=A.a([A.p_(new A.tV(new A.zi("assets/animations/developer.json",r,r,r),r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r),r,250),B.rx,B.zN,B.zO,B.rx,A.abH(A.a([A.a4W("assets/images/github.svg","https://github.com/alphanad"),B.iC,A.a4W("assets/images/linkedin.svg","https://www.linkedin.com/in/alphanad"),B.iC,A.a4W("assets/images/instagram.svg","https://www.instagram.com/alphanad"),B.iC,A.a4W("assets/images/email.svg","mailto://Alphanad.Official@gmail.com")],h),B.EQ,B.e4)],h)
+Y(a,b){var s=this,r=null,q=b.ab(t.w).f.a,p=s.y,o=s.z,n=A.a([s.r,s.x],t.b),m=q.a,l=q.b,k=A.p_(B.Ap,l,m),j=A.ag(191,255,255,255),i=A.a9s(25),h=t.d,g=A.a([A.p_(new A.tV(new A.zi("assets/animations/developer.json",r,r,r),r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r),r,250),B.rx,B.zN,B.zO,B.rx,A.abH(A.a([A.a4W("assets/images/github.svg","https://github.com/alphanad"),B.iC,A.a4W("assets/images/linkedin.svg","https://www.linkedin.com/in/alphanad"),B.iC,A.a4W("assets/images/instagram.svg","https://www.instagram.com/alphanad"),B.iC,A.a4W("assets/images/email.svg","mailto:Alphanad.Official@gmail.com")],h),B.EQ,B.e4)],h)
 return new A.v6(A.Ff(B.ci,A.a([new A.qR(new A.h6(r,r,r,r,r,new A.oc(p,o,B.av,n,r,r),B.bd),r,B.T,B.k8,new A.a0C(s),r),k,A.Nw(A.O0(r,A.Nw(new A.ER(!0,new A.lR(B.A1,new A.Au(B.bI,B.ER,B.e4,B.jZ,r,B.iY,r,g,r),r),r),r,r),B.G,r,r,new A.h6(j,r,r,i,r,r,B.bd),r,l/1.2,r,r,r,r,m/1.2),r,r)],h),B.d4),r)}}
 A.a0E.prototype={
 $0(){var s=this.a
