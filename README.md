@@ -1,2 +1,2 @@
-# alphanad.ir
-my own website.
+# Alphanad.ir
+My own website.
